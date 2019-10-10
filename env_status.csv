@@ -1,0 +1,9 @@
+site,change_in_flow,pollution,habitat_loss,mining,artificial_breaching,fishing_effort,bait_collection,ecological_category
+O,M,M,M,N,N,VH,Y,C
+B,M,H,M,N,N,VH,Y,D
+BR,M,L,L,N,N,H,Y,B
+K,L,M,L,N,N,H,Y,B
+SK,L,H,H,N,N,H,Y,C
+N,M,H,M,N,N,H,Y,C
+M,L,M,M,N,N,H,Y,B
+RB,L,M,H,Y,N,H,Y,C
