@@ -7,4 +7,8 @@ AR_env_loci_edit.csv - Allelic richness.
 he_env_loci_edit1.csv - Expected heterozygosity.
 nucleotide_div_env_edit.csv - Nucleotide diversity.
 
+diversity_indices_status.csv contains genomic diversity averaged for each estuary, anthropogentic pressures and the area of submerged macrophytes (from the NBA 2012 - Van niekerk 2012).
 
+env_status.csv contains anthropogenic pressures and ecological category for each estuary (from the NBA 2012 - Van niekerk 2012).
+
+glm.R contains the script used to examine the relationship between the anthropogenic pressures and the measures of genomic diversity. This was carried out using a GLM and post hoc Tukey HSD test.
